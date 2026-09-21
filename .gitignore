@@ -1,0 +1,31 @@
+# Editor / desktop files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.log
+
+# Local binaries
+capt
+
+# Private / local configuration
+.env
+*.key
+*.pem
+config/local/
+
+# Gold Master / disk images
+*.img
+*.dd
+*.dd.zst
+*.raw
+*.raw.zst
+
+# Temporary files
+/tmp/
+tmp/
