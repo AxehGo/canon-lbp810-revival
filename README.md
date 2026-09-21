@@ -41,6 +41,9 @@ The project also produced a reproducible reference system (the Gold Master) and 
 
 The modern documentation and experimental work in this repository are by **AxehGo & DebIA**.
 
+The complete experimental history of the revival is documented on
+[StalkerLabs](https://www.stalkerlabs.org/).
+
 ## Attribution
 
 Please preserve the original authorship, copyright and license information when redistributing or modifying the historical driver.
